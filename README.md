@@ -6,7 +6,7 @@ This code is opensource so that hobbysits and researchers dont have to start fro
 
 We hope that together we can make the oceans more accesible and push through innovative products. Have a look at our awesome work at BREED Robotics: [https://innoacademy.engg.hku.hk/robofishbreed2021/]
 
-The paper can be accessed here : [LINK]
+The paper can be accessed here : [<iframe src="https://docs.google.com/document/d/e/2PACX-1vSdPAR8D518EeIv54pgXGE0jH-yqpE2_uuko3XwDP2sL2X1Rfx7B4O1CWh-QMBonA/pub?embedded=true"></iframe>]
 
 
 Authors:
